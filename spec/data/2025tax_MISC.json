@@ -1,0 +1,55 @@
+{
+	"transmitter":{
+		"transmitter_name":"Silver Botanic Nursery LLC",
+		"company_name":"Silver Botanic Nursery LLC",
+		"company_mailing_address":"402 Union St Unit 1026",
+		"company_city":"Hudson",
+		"company_state":"NY",
+		"company_zip_code":"12534",
+		"transmitter_tin":"832308475",
+		"test_file_indicator":"T",
+		"transmitter_control_code":"35QQ9",
+		"contact_name":"David Silberberg",
+		"contact_telephone_number_and_ext":"5186100774",
+		"contact_email_address":"water@silverbotanic.com",
+		"payment_year":"2025",
+		"prior_year_indicator":""
+	},
+	"payer":{
+		"first_payer_name":"Silver Botanic Nursery LLC",
+		"payment_year":"2025",
+		"payer_shipping_address":"402 Union St Unit 1026",
+		"payer_city":"Hudson",
+		"payer_state":"NY",
+		"payer_zip_code":"12534",
+		"payer_tin":"832308475",
+		"payer_name_control":"SILV",
+		"payer_telephone_number_and_ext":"5186100774"
+	},
+	"payees":[
+		{
+			"first_payee_name_line":"The Lo Farm LLC",
+			"payees_name_control":"thel",
+			"payment_year":"2025",
+			"payee_mailing_address":"5204 Route 32",
+			"payee_city":"Catskill",
+			"payee_state":"NY",
+			"payee_zip_code":"12414",
+			"payees_tin":"843440301",
+			"phone":"5012312460",
+			"payment_amount_1":"18880.94"
+		},
+		{
+			"first_payee_name_line":"SC Solos Cleaning Services LLC",
+			"payees_name_control":"SCSO",
+			"payment_year":"2025",
+			"payee_mailing_address":"80 Hillside Lake Rd",
+			"payee_city":"Wappingers Falls",
+			"payee_state":"NY",
+			"payee_zip_code":"12590",
+			"payees_tin":"463492557",
+			"phone":"",
+			"payment_amount_1":"1635"
+		}
+	]	
+}
